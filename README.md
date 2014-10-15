@@ -1,7 +1,7 @@
 01_Hello_World
 ==============
 
-A short description of myself so you will know a little about me.
+An introduction of myself so you will know a little about me.
 
 I have learned that what we say and do is colored by who we are.
 
@@ -27,7 +27,7 @@ So here are a few key points about me:
 * I have spent the majority of my career in the Aerospace Defense industry as a process improvement engineer.
 * I have been using Stata since its beginning in 1986 and I am learning R.
 * I have been married for 40 years, Debbie and I have 9 children (last two adopted)
-* We have 13 grandsons and 9 granddaughters.
+* We have 13 grandsons and 9 granddaughters. (Picture is Alec, Zoe and Myia riding my horse Foxy with me.)
 * I am currently employed as the Continuous Improvement Manager at International Paperbox in Salt Lake City, Utah
  
 ### My goals related to this repository are to learn from you and share with you so that we all can be edified.
