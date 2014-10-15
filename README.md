@@ -32,5 +32,5 @@ So here are a few key points about me:
 ### My goals related to this repository are to learn from you and share with you so that we all can be edified.
 
 If you would like to know a little more about me go to my LinkedIn profile at:
- A [Gary Kitchen at](https://www.linkedin.com/profile/view?id=27062781&trk=nav_responsive_tab_profile)
+ A [Gary Kitchen](https://www.linkedin.com/profile/view?id=27062781&trk=nav_responsive_tab_profile)
  
