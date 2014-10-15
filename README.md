@@ -29,4 +29,4 @@ So here are a few key points about me:
 * We have 13 grandsons and 9 granddaughters.
 * I am currently employed as the Continuous Improvement Manager at International Paperbox in Salt Lake City, Utah
  
-## My goals related to this repository is to learn from you and share with you so that we all can be edified.
+### My goals related to this repository are to learn from you and share with you so that we all can be edified.
