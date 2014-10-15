@@ -6,12 +6,12 @@ An introduction of myself so you will know a little about me.
 I have learned that what we say and do is colored by who we are.
 
 For example, when I first started learning about the science of Quality as taught
-by W. Edwards Deming, I often encountered some ideas that I knew I wasn't getting
+by W. Edwards Deming, I often encountered some new ideas and I knew I wasn't getting
 his point. So, I started to learn a little about W. Edwards Deming.
 
 I learned that he had a Ph.D. in theoretical physics and studied physics during 
-a time when quantum mechanics was just being born. I realized that this perspective
-was very important so I started to study the point-of-view of quantum mechanics.
+a time when quantum mechanics was just being born. I realized that the quantum mechanics perspective
+was very important to understanding Dr. Deming so I started to study the point-of-view of quantum mechanics.
 
 As I learned a little, I started to see more clearly the points Dr. Deming was
 trying to make.
